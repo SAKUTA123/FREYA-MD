@@ -121,7 +121,7 @@ global.dtu = 'ᴅᴏɴᴀᴛᴇ'
 global.urlnya = "https://linktr.ee/korbanmu"
 //========== callButtons ==========//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = +'62 838-4946-9400''
+global.phn = +'62 838-4946-9400'
 global.ephemeral = '86400' // 86400 = 24jam, kalo ingin di hilangkan ganti '86400' jadi 'null' atau ''
 global.monitor = "u1931038-1f70a77eef5964be82e7d606" // Ambil di https://uptimerobot.com
 global.multiplier = 69 // The higher, The harder levelup
