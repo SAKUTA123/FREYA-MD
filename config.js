@@ -101,9 +101,9 @@ global.xyro = '_'  // ISI APIKEY OPENAI LU 🥵
 global.xzn = '_'   // https://wa.me/6289523302916 🙂
 global.wait = 'SBR SYGKKU,SDNG diproses!'
 ///==================/thumbnail 
-global.thumb = 'https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg'
-global.thumbbc = 'https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg' //For broadcast
+global.thumb = 'https://a.uguu.se/ULceNPqj.jpg' //Main Thumbnail
+global.thumb2 = 'https://a.uguu.se/ULceNPqj.jpg'
+global.thumbbc = 'https://a.uguu.se/ULceNPqj.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumblvlup = 'https://telegra.ph/file/a3e66e0fa840b08236c75.jpg'
 global.footer = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ ฅ˘ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
@@ -153,27 +153,27 @@ global.ppbot = [ 'https://telegra.ph/file/76dac6b1c51affd5b249e.jpg','https://cd
 'https://telegra.ph/file/0f49959e6bac62ddc1f95.jpg','https://telegra.ph/file/2cbb0b176e9c6836a9005.jpg','https://telegra.ph/file/8fa8b92e322eb2c312e67.jpg'
 ]
 global.Pallmenu = [
-'https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg','https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg','https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg'
+'https://a.uguu.se/ULceNPqj.jpg','https://a.uguu.se/ULceNPqj.jpg','https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg'
 ]
 global.AraChu2 = [
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg",
-  "https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg"
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg",
+  "https://a.uguu.se/ULceNPqj.jpg"
 ]
 //["https://img.coomer.party/thumbnail/data/20/17/2017bbb33e4b2c492fb1b17f2dbd53273496dbce85b87605c4d701e14fce0267.jpg"]
   //['https://cdnb.artstation.com/p/assets/images/images/014/689/195/large/aoi-ogata-hate20181.jpg']
